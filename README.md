@@ -1,4 +1,4 @@
-⚡ Electric Vehicle Analysis Dashboard (Power BI | Excel)
+⚡ **Electric Vehicle Analysis Dashboard (Power BI | Excel)**
 <img width="1333" height="749" alt="Dashboard" src="https://github.com/user-attachments/assets/a5989326-ea46-4d00-9afe-e22b621484d6" />
 📌 Project Overview
 
